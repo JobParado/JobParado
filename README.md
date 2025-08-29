@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**JobParado/JobParado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currenlty a college student learning Computer Science.
 
 Programming skills:
   Java
@@ -18,5 +15,5 @@ Tools i used:
   Xampp
   Unity Hub
 
-  
--->
+Projects made
+  🚗Infinte road(desktop game from unity and their asstets)
