@@ -1,22 +1,26 @@
 Currenlty a college student learning Computer Science.
 
-
-
-
-Programming skills:
+Programming Skills
 
 Java
-> Basic Calculator.
-> Java App that combines transportation with food services.
-
-HTML, CSS
-> Website With a description and information about a video game.
-
-C++,
->
+> Developed a Basic Calculator application.
+> Created a Java app integrating transportation and food services features.
 
 
-C# with unity game development
-> 🚗Infinte road(desktop game from unity and their asstets)
+Web Development (HTML, CSS)
+> Built a website showcasing descriptions and information about a video game.
 
-Tools used: Netbeans, Visual Studio, VS code, Xamp, Unity Hub
+C++
+Gained experience with object-oriented programming and problem-solving.
+
+
+C# with Unity Hub (Game Development)
+> Designed and developed "Infinite Road", a desktop game built using Unity and asset packages.
+
+
+
+Tools & Technologies
+
+IDEs & Editors: NetBeans, Visual Studio, VS Code
+Frameworks & Platforms: Unity Hub
+Others: XAMPP for local web development and testing
