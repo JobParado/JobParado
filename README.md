@@ -12,7 +12,7 @@ Github portfolio website link: https://jobparado.github.io/Github-portfolio/
   - **Doctor**: Views patient records and assigns themselves as the attending doctor.  
 
 ### Web Development (HTML, CSS)  
-- Built a website showcasing descriptions and information about a video game.  
+- Built a website portfolio showcasing my projects and and skills and what tools I uses.  
 
 ### C++  
 - Gained experience with object-oriented programming and problem-solving.  
