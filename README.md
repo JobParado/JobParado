@@ -6,7 +6,6 @@ Github portfolio website link: https://jobparado.github.io/Github-portfolio/
 ## 💻 Programming Skills  
 
 ### Java  
-- Developed a **Basic Calculator** application.  
 - Created a **Transportation and Food Services app** (Java) combining simple service features.  
 - Built a **Clinic Management System** with two user roles:  
   - **Receptionist**: Adds patient details into the application’s database.  
