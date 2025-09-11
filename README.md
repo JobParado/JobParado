@@ -1,5 +1,6 @@
 Currently a college student learning Computer Science.  
 
+Github portfolio website link: https://jobparado.github.io/Github-portfolio/
 ---
 
 ## 💻 Programming Skills  
