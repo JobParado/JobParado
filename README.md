@@ -1,4 +1,4 @@
-<h1>Currently a college student learning Computer Science 🔥🔥🔥.  </h1>
+<h2>Currently a college student learning Computer Science 🔥.</h2>
 
 <b>Skills</b>: Java,  HTML,  CSS,  Javascript,  Python,  C++,  C#
 
