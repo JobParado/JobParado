@@ -1,4 +1,4 @@
-<h2>Currently a college student learning Computer Science 🔥.</h2>
+<h2>Currently a college student learning Computer Science.</h2>
 
 <b>Programming Languanges</b>: Java,  HTML,  CSS,  Javascript,  Python,  C++,  C#
 
